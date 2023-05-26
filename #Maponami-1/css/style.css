@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+}
+.body-index{
+    background-color: rgb(70, 108, 255);
+}
+.div1{
+    background-color: rgb(70, 108, 255);
+}
+
+.links{
+    background-color: white;
+    text-decoration: none;
+    color: rgb(70, 108, 255);
+}
+.links:active{
+    background-color:rgb(70, 108, 255) ;
+    border: 2px solid white;
+    color: white;
+}
+
+.logo_vote{
+    margin: 20% 20% 0% 20%;
+}
+.site{
+    padding:5% 0 20% 0;
+    margin: 0;
+    font-size:30px ;
+    color:white;
+}
+input{
+    outline:none;
+}
+.boutton{
+    background-color: rgb(70, 108, 255);
+    color:white;
+}
+
+/*---*/
+/*--le sytle pour les boutons de la page d'acceuil--*/
+
+.boutton-index{
+    background-color:rgb(70, 108, 255);
+    color: white;
+}
+.boutton-index:hover{
+    background-color: white;
+    color:rgb(70, 108, 255);
+    /*transition: 0.3s; */
+}
+
+.boutton-index:active{
+    background-color: white;
+}
+.boutton-index:focus{
+    background-color: white;
+}
